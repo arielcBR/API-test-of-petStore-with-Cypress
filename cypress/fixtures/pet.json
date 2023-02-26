@@ -1,18 +1,16 @@
 {
   "id": 7894,
   "category": {
-    "id": 12,
-    "name": "Cats"
+      "id": 1,
+      "name": "Cats"
   },
   "name": "Chulo",
-  "photoUrls": [
-    "string"
-  ],
+  "photoUrls": ["string"],
   "tags": [
-    {
-      "id": 1,
-      "name": "unvaccinated"
-    }
+      {
+          "id": 1,
+          "name": "vaccinated"
+      }
   ],
   "status": "available"
 }

@@ -1,0 +1,16 @@
+{
+  "id": 7894,
+  "category": {
+    "id": 1,
+    "name": "Cats"
+  },
+  "name": "Chulis",
+  "photoUrls": ["string"],
+  "tags": [
+    {
+      "id": 1,
+      "name": "unvaccinated"
+    }
+  ],
+  "status": "unavailable"
+}
